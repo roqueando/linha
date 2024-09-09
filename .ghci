@@ -1,0 +1,3 @@
+:set -Wunused-binds -Wunused-imports -Worphans
+:set -isrc
+:load app/Main.hs
